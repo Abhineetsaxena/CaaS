@@ -1,2 +1,2 @@
-# CaaS
-A project which will provide a Container as a Service using Docker and python CGI
+# Container as a Service
+ A Simple Web-Portal Where We are providing facility to user to choose which type of OS wants to use and save his tasks for further use. Basically user have to just go through the portal and have to choose which type of OS he/she wants to use and then there a shell of that OS will open because most of tasks in any of core company to be done by CLI(Command Line Interface ) so its sufficient for them user can manage all their container like start,stop,terminate and other tasks. So its a simple CAAS service provide.
